@@ -1,0 +1,21 @@
+index;info;x;y;z;value;channel;universe;filterLabel
+1;PC front left far;-0.60;0.50;-0.40;0;13;0;337_65 Roscolux Daylight Blue
+2;PC front left near;-0.30;0.50;-0.40;0;14;0;337_65 Roscolux Daylight Blue
+3;PC front central;0.00;0.50;-0.40;0;12;0;337_65 Roscolux Daylight Blue
+4;PC front right near;0.30;0.50;-0.40;0;15;0;337_65 Roscolux Daylight Blue
+5;PC front right far;0.60;0.50;-0.40;0;16;0;337_65 Roscolux Daylight Blue
+6;PC red contre left;-0.60;0.50;-0.10;0;11;0;358_26 Roscolux Light Red
+7;PC red contre right;0.60;0.50;-0.10;0;43;0;358_26 Roscolux Light Red
+8;PC green floor left;-0.60;-0.40;0.30;0;62;0;327_87 Roscolux Pale Yellow Green
+9;PC green floor right;0.60;-0.40;0.30;0;2;0;327_87 Roscolux Pale Yellow Green
+10;Drummer chaser;-0.50;0.50;-0.40;0;65;0;353_20 Roscolux Medium Amber
+11;Guitarist chaser;-0.40;0.50;-0.40;0;66;0;353_20 Roscolux Medium Amber
+12;Blacklight far left;-0.07;0.55;-0.05;0;40;0;389_58 Roscolux Deep Lavender
+13;Blacklight far right;0.07;0.55;-0.05;0;41;0;389_58 Roscolux Deep Lavender
+14;Blacklight near left;-0.07;0.55;0.05;0;42;0;389_58 Roscolux Deep Lavender
+15;Blacklight near right;0.07;0.55;0.05;0;43;0;389_58 Roscolux Deep Lavender
+16;Truck iodin light;-0.60;-0.45;-0.40;0;50;0;342_11 Roscolux Light Straw
+33;Salle;0.00;0.60;0.70;0;200;0;309_0 Roscolux Clear
+32;Service;0.00;0.70;0.00;0;201;0;309_0 Roscolux Clear
+17;Lateral left;-0.60;0.00;0.00;0;55;0;313_4 Roscolux Medium Bastard Amber
+18;Lateral right;0.60;0.00;0.00;0;56;0;313_4 Roscolux Medium Bastard Amber

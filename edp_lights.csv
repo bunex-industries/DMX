@@ -1,0 +1,26 @@
+index;info;x;y;z;value;channel;universe;filterLabel
+0;douche DJ;-0.60;0.50;-0.30;0;0;0;310_1 Roscolux Light Bastard Amber
+1;douche VJ;0.60;0.50;-0.30;0;4;0;310_1 Roscolux Light Bastard Amber
+2;douche Speaker;0.00;0.50;-0.30;0;1;0;342_11 Roscolux Light Straw
+3;Podium G;-0.10;0.50;-0.30;0;2;0;343_12 Roscolux Straw
+4;Podium D;0.10;0.50;-0.30;0;3;0;343_12 Roscolux Straw
+5;Réhaut Speaker;0.40;0.50;-0.30;0;7;0;343_12 Roscolux Straw
+6;Face speaker G;-0.60;0.50;-0.10;0;11;0;383_55 Roscolux Lilac
+7;Face speaker D;0.60;0.50;-0.10;0;36;0;383_55 Roscolux Lilac
+8;Face DJ;0.40;0.50;-0.10;0;8;0;372_43 Roscolux Deep Pink
+9;Bache G;-0.50;0.40;0.10;0;16;0;336_59 Roscolux Indigo
+10;Bache D;0.50;0.40;0.10;0;17;0;336_59 Roscolux Indigo
+11;découpe G;-0.30;0.40;0.10;0;13;0;309_0 Roscolux Clear
+12;découpe D;0.30;0.40;0.10;0;14;0;309_0 Roscolux Clear
+13;Asym G loin;-0.15;0.40;0.10;0;18;0;309_0 Roscolux Clear
+14;Asym D loin;0.15;0.40;0.10;0;20;0;309_0 Roscolux Clear
+15;Asym G proche;-0.30;0.50;0.30;0;21;0;309_0 Roscolux Clear
+16;Asym D proche;0.30;0.50;0.30;0;22;0;309_0 Roscolux Clear
+17;Douche table;0.00;0.50;0.50;0;43;0;420_389 Roscolux Chroma Green
+18;table G red;-0.40;0.50;0.50;0;48;0;420_389 Roscolux Chroma Green
+23;table D loin;-0.30;0.50;0.50;0;49;0;420_389 Roscolux Chroma Green
+20;table G proche;-0.10;0.50;0.50;0;50;0;420_389 Roscolux Chroma Green
+21;table D proche;0.10;0.50;0.50;0;51;0;420_389 Roscolux Chroma Green
+22;extra table 1;0.30;0.50;0.50;0;52;0;420_389 Roscolux Chroma Green
+19;table D red;0.40;0.50;0.50;0;53;0;420_389 Roscolux Chroma Green
+24;mur de coloriage;0.00;-0.30;0.60;0;54;0;309_0 Roscolux Clear

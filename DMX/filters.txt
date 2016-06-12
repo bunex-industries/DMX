@@ -1,0 +1,459 @@
+309;Roscolux;0;Clear;255;255;255
+310;Roscolux;1;Light Bastard Amber;255;96;96
+311;Roscolux;2;Bastard Amber;255;192;160
+312;Roscolux;3;Dark Bastard Amber;255;159;120
+313;Roscolux;4;Medium Bastard Amber;253;157;125
+315;Roscolux;5;Rose Tint;254;190;209
+317;Roscolux;6;No Color Straw;253;255;215
+318;Roscolux;7;Pale Yellow;255;255;176
+339;Roscolux;8;Pale Gold;239;207;143
+340;Roscolux;9;Pale Amber Gold;253;183;79
+341;Roscolux;10;Medium Yellow;255;255;32
+342;Roscolux;11;Light Straw;253;204;36
+343;Roscolux;12;Straw;239;255;0
+345;Roscolux;13;Straw Tint;254;198;114
+346;Roscolux;14;Medium Straw;254;171;48
+347;Roscolux;15;Deep Straw;248;149;1
+348;Roscolux;16;Light Amber;255;96;0
+349;Roscolux;17;Light Flame;239;63;32
+351;Roscolux;18;Flame;240;16;0
+352;Roscolux;19;Fire;255;4;4
+353;Roscolux;20;Medium Amber;253;140;66
+354;Roscolux;21;Golden Amber;236;96;2
+356;Roscolux;22;Deep Amber;253;64;49
+357;Roscolux;23;Orange;253;108;66
+319;Roscolux;24;Scarlet;191;0;0
+320;Roscolux;25;Orange Red;255;0;0
+358;Roscolux;26;Light Red;159;0;0
+359;Roscolux;27;Medium Red;96;0;0
+360;Roscolux;30;Light Salmon Pink;254;101;88
+361;Roscolux;31;Salmon Pink;254;99;134
+362;Roscolux;32;Medium Salmon Pink;252;1;57
+321;Roscolux;33;No Color Pink;255;128;160
+322;Roscolux;34;Flesh Pink;255;32;64
+363;Roscolux;35;Light Pink;255;164;175
+364;Roscolux;36;Medium Pink;232;91;137
+365;Roscolux;37;Pale Rose Pink;255;128;175
+367;Roscolux;38;Light Rose;255;96;175
+369;Roscolux;40;Light Salmon;255;0;0
+370;Roscolux;41;Salmon;239;0;16
+371;Roscolux;42;Deep Salmon;144;0;0
+372;Roscolux;43;Deep Pink;255;0;112
+374;Roscolux;44;Middle Rose;223;0;112
+376;Roscolux;45;Rose;144;0;32
+323;Roscolux;46;Magenta;96;0;0
+324;Roscolux;47;Light Rose Purple;64;0;64
+325;Roscolux;48;Rose Purple;183;2;183
+377;Roscolux;49;Medium Purple;112;0;80
+378;Roscolux;50;Mauve;112;0;0
+379;Roscolux;51;Surprise Pink;255;128;255
+380;Roscolux;52;Light Lavender;175;16;239
+381;Roscolux;53;Pale Lavender;191;192;255
+382;Roscolux;54;Special Lavender;192;160;255
+383;Roscolux;55;Lilac;109;79;255
+385;Roscolux;56;Gypsy Lavender;64;0;128
+387;Roscolux;57;Lavender;64;0;128
+389;Roscolux;58;Deep Lavender;64;0;128
+336;Roscolux;59;Indigo;48;0;80
+392;Roscolux;60;No Color Blue;128;192;255
+393;Roscolux;61;Mist Blue;80;192;208
+394;Roscolux;62;Booster Blue;80;144;191
+395;Roscolux;63;Pale Blue;16;144;191
+396;Roscolux;64;Light Steel Blue;0;80;240
+337;Roscolux;65;Daylight Blue;0;64;255
+338;Roscolux;66;Cool Blue;0;192;192
+397;Roscolux;67;Light Sky Blue;0;96;255
+398;Roscolux;68;Sky Blue;0;0;208
+399;Roscolux;69;Brilliant Blue;0;64;223
+400;Roscolux;70;Nile Blue;16;160;176
+401;Roscolux;71;Sea Blue;0;128;144
+402;Roscolux;72;Azure Blue;0;160;207
+403;Roscolux;73;Peacock Blue;16;144;144
+404;Roscolux;74;Night Blue;0;0;176
+405;Roscolux;76;Light Green Blue;0;128;144
+406;Roscolux;77;Green Blue;0;128;223
+407;Roscolux;78;Trudy Blue;32;16;176
+409;Roscolux;79;Bright Blue;0;0;208
+410;Roscolux;80;Primary Blue;0;0;128
+411;Roscolux;81;Urban Blue;36;1;201
+412;Roscolux;82;Surprise Blue;16;0;112
+413;Roscolux;83;Medium Blue;0;0;96
+415;Roscolux;84;Zephyr Blue;30;1;163
+416;Roscolux;85;Deep Blue;0;0;96
+326;Roscolux;86;Pea Green;0;143;0
+327;Roscolux;87;Pale Yellow Green;192;255;128
+418;Roscolux;88;Light Green;128;255;80
+328;Roscolux;89;Moss Green;0;122;0
+421;Roscolux;90;Dark Yellow Green;16;95;0
+422;Roscolux;91;Primary Green;0;64;0
+423;Roscolux;92;Turquoise;0;191;127
+424;Roscolux;93;Blue Green;0;176;96
+425;Roscolux;94;Kelly Green;46;135;104
+426;Roscolux;95;Medium Blue Green;0;96;80
+427;Roscolux;96;Lime;191;255;0
+428;Roscolux;97;Light Grey;192;192;192
+429;Roscolux;98;Medium Grey;112;112;112
+431;Roscolux;99;Chocolate;144;112;96
+440;Roscolux;120;Red Diffusion;142;0;0
+441;Roscolux;121;Blue Diffusion;0;0;205
+442;Roscolux;122;Green Diffusion;0;72;0
+443;Roscolux;123;Amber Diffusion;255;45;45
+444;Roscolux;124;Red Cyc Silk;151;0;0
+445;Roscolux;125;Blue Cyc Silk;0;0;198
+446;Roscolux;126;Green Cyc Silk;0;62;0
+447;Roscolux;127;Amber Cyc Silk;255;26;26
+448;Roscolux;128;Magenta Silk;81;0;61
+449;Roscolux;129;Sky Blue Silk;0;0;251
+450;Roscolux;130;Medium Blue Green Silk;0;89;74
+451;Roscolux;131;Medium Amber Silk;253;126;0
+452;Roscolux;150;Hamburg Rose;254;203;218
+335;Roscolux;151;Hamburg Lavender;197;56;250
+334;Roscolux;152;Hamburg Steel Blue;0;0;191
+314;Roscolux;304;Pale Apricot;255;160;128
+316;Roscolux;305;Rose Gold;255;128;96
+344;Roscolux;312;Canary;252;223;90
+350;Roscolux;317;Apricot;239;16;0
+355;Roscolux;321;Soft Golden Amber;223;32;0
+366;Roscolux;337;True Pink;255;138;197
+368;Roscolux;339;Broadway Pink;255;0;144
+373;Roscolux;342;Rose Pink;207;0;80
+375;Roscolux;344;Follies Pink;224;0;128
+384;Roscolux;355;Pale Violet;64;32;160
+386;Roscolux;356;Middle Lavender;174;53;255
+388;Roscolux;357;Royal Lavender;48;0;112
+390;Roscolux;358;Rose Indigo;32;0;80
+391;Roscolux;359;Medium Violet;16;0;96
+408;Roscolux;378;Alice Blue;80;0;208
+414;Roscolux;383;Sapphire Blue;26;0;130
+417;Roscolux;385;Royal Blue;0;0;79
+419;Roscolux;388;Gaslight Green;0;224;0
+420;Roscolux;389;Chroma Green;0;127;0
+430;Roscolux;397;Pale Grey;224;224;224
+480;Roscolux;3102;Tough MT2;255;96;0
+479;Roscolux;3106;Tough MTY;239;63;32
+477;Roscolux;3107;Tough Y-1;253;255;215
+476;Roscolux;3114;Tough UV Filter;255;255;255
+478;Roscolux;3134;Tough MT 54;239;207;143
+432;Roscolux;3202;Full Blue (CTB);96;0;223
+456;Roscolux;3203;Three-Quarter Blue (3/4 CTB);0;24;136
+433;Roscolux;3204;Half Blue (1/2 CTB);128;96;255
+434;Roscolux;3206;Third Blue (1/3 CTB);176;176;240
+329;Roscolux;3208;Quarter Blue (1/4 CTB);191;223;255
+330;Roscolux;3216;Eighth Blue (1/8 CTB);223;223;223
+457;Roscolux;3220;Double Blue (2x CTB);36;1;201
+439;Roscolux;3304;Tough Plusgreen / WindowGreen;112;223;64
+333;Roscolux;3308;Tough Minusgreen;255;0;128
+475;Roscolux;3310;Fluorofilter;255;39;28
+472;Roscolux;3313;Tough 1/2 Minusgreen;255;0;255
+473;Roscolux;3314;Tough 1/4 Minusgreen;255;128;192
+469;Roscolux;3315;Tough 1/2 Plusgreen;192;255;128
+470;Roscolux;3316;Tough 1/4 Plusgreen;203;255;151
+471;Roscolux;3317;Tough 1/8 Plusgreen;220;255;185
+474;Roscolux;3318;Tough 1/8 Minusgreen;255;128;255
+331;Roscolux;3401;RoscoSun 85;239;80;0
+464;Roscolux;3402;Rosco N.3;192;192;192
+465;Roscolux;3403;Rosco N.6;112;112;112
+466;Roscolux;3404;Rosco N.9;32;32;32
+467;Roscolux;3405;RoscoSun 85N.3;144;112;96
+468;Roscolux;3406;RoscoSun 85N.6;112;80;80
+332;Roscolux;3407;RoscoSun (CTO);191;64;0
+435;Roscolux;3408;RoscoSun (1/2 CTO);255;128;0
+436;Roscolux;3409;RoscoSun (1/4 CTO);255;191;143
+437;Roscolux;3410;RoscoSun (1/8 CTO);255;224;192
+458;Roscolux;3411;RoscoSun (3/4 CTO);215;32;0
+463;Roscolux;3415;Rosco N.15;224;224;224
+459;Roscolux;3441;Full Straw (CTS);255;96;0
+460;Roscolux;3442;Half Straw (1/2 CTS);254;198;114
+461;Roscolux;3443;Quarter Straw (1/4 CTS);239;207;143
+462;Roscolux;3444;Eighth Straw (1/8 CTS);254;232;186
+438;Roscolux;3761;Roscolex 85;255;96;32
+611;Lee Filters;2;Rose Pink;217;0;145
+606;Lee Filters;3;Lavender Tint;219;177;255
+293;Lee Filters;4;Medium Bastard Amber;255;125;63
+208;Lee Filters;7;Pale Yellow;255;255;157
+295;Lee Filters;8;Dark Salmon;255;39;28
+204;Lee Filters;9;Pale Amber Gold;255;160;64
+296;Lee Filters;10;Medium Yellow;255;220;0
+297;Lee Filters;13;Straw Tint;255;181;98
+298;Lee Filters;15;Deep Straw;253;130;0
+299;Lee Filters;19;Fire;252;1;7
+201;Lee Filters;20;Medium Amber;255;155;106
+200;Lee Filters;21;Gold Amber;253;92;15
+202;Lee Filters;22;Dark Amber;223;32;32
+209;Lee Filters;24;Scarlet;223;0;0
+210;Lee Filters;26;Bright Red;202;0;0
+300;Lee Filters;27;Medium Red;66;0;8
+301;Lee Filters;35;Light Pink;255;92;130
+302;Lee Filters;36;Mesium Pink;255;98;133
+213;Lee Filters;46;Dark Magenta;96;0;0
+612;Lee Filters;48;Rose Purple;96;0;92
+303;Lee Filters;52;Light Lavender;99;0;173
+304;Lee Filters;53;Paler Lavender;162;192;255
+214;Lee Filters;58;Lavender;64;0;128
+305;Lee Filters;61;Mist Blue;89;219;251
+215;Lee Filters;63;Pale Blue;0;160;223
+607;Lee Filters;68;Sky Blue;0;0;147
+307;Lee Filters;79;Just Blue;11;11;153
+308;Lee Filters;85;Deeper Blue;0;0;66
+218;Lee Filters;89;Moss Green;0;159;0
+306;Lee Filters;90;Dark Yellow Green;4;61;0
+232;Lee Filters;101;Yellow;255;191;0
+233;Lee Filters;102;Light Amber;251;210;17
+235;Lee Filters;103;Straw;255;222;181
+234;Lee Filters;104;Deep Amber;249;163;34
+252;Lee Filters;105;Orange;253;121;2
+258;Lee Filters;106;Primary Red;128;0;0
+260;Lee Filters;107;Light Rose;255;79;109
+259;Lee Filters;109;Light Salman;241;103;103
+212;Lee Filters;110;Middle Rose;255;104;168
+264;Lee Filters;111;Dark Pink;236;55;150
+262;Lee Filters;113;Magenta;176;0;0
+287;Lee Filters;115;Peacock Blue;21;155;141
+247;Lee Filters;116;Medium Blue-Green;0;79;32
+286;Lee Filters;117;Steel Blue;0;223;255
+250;Lee Filters;118;Light Blue;17;118;255
+282;Lee Filters;119;Dark Blue;0;16;128
+279;Lee Filters;120;Deep Blue;35;29;118
+216;Lee Filters;121;Lee Green;0;191;0
+249;Lee Filters;122;Fern Green;0;232;0
+248;Lee Filters;124;Dark Green;0;164;0
+266;Lee Filters;126;Mauve;96;0;112
+261;Lee Filters;127;Smokey Pink;112;48;64
+265;Lee Filters;128;Bright Pink;204;19;116
+294;Lee Filters;129;Heavy Frost;255;255;255
+199;Lee Filters;130;Clear;255;255;255
+292;Lee Filters;132;Medium Blue;0;0;192
+237;Lee Filters;134;Golden Amber;254;116;69
+241;Lee Filters;135;Deep Golden Amber;159;34;34
+246;Lee Filters;136;Pale Lavender;175;128;223
+227;Lee Filters;137;Special Lavender;83;41;207
+217;Lee Filters;138;Pale Green;128;255;32
+288;Lee Filters;139;Primary Green;0;80;0
+251;Lee Filters;141;Bright Blue;0;48;208
+243;Lee Filters;142;Pale Violet;48;0;176
+285;Lee Filters;143;Pale Navy Blue;1;135;150
+284;Lee Filters;144;No Colour Blue;0;112;223
+238;Lee Filters;147;Apricot;255;118;72
+263;Lee Filters;148;Bright Rose;221;2;96
+253;Lee Filters;151;Gold Tint;255;185;168
+240;Lee Filters;152;Pale Gold;255;201;174
+205;Lee Filters;153;Pale Salmon;255;166;184
+256;Lee Filters;154;Pale Rose;255;204;191
+289;Lee Filters;156;Chocolate;120;92;92
+291;Lee Filters;157;Pink;224;0;80
+236;Lee Filters;158;Deep Orange;253;94;40
+207;Lee Filters;159;No Color Straw;255;255;202
+242;Lee Filters;161;Slate Blue;16;48;144
+239;Lee Filters;162;Bastard Amber;255;160;128
+255;Lee Filters;164;Flame Red;227;0;0
+283;Lee Filters;165;Daylight Blue;0;64;255
+290;Lee Filters;166;Pale Red;235;3;102
+245;Lee Filters;170;Deep Lavender;181;0;219
+224;Lee Filters;174;Dark Steel Blue;0;69;253
+254;Lee Filters;176;Loving Amber;239;112;96
+203;Lee Filters;179;Chrome Orange;255;125;47
+278;Lee Filters;180;Dark Lavender;111;0;223
+244;Lee Filters;181;Congo Blue;13;4;113
+257;Lee Filters;182;Light Red;144;0;0
+276;Lee Filters;183;Moonlight Blue;32;96;255
+270;Lee Filters;184;Cosmetic Peach;255;239;223
+274;Lee Filters;185;Cosmetic Burgundy;192;159;160
+273;Lee Filters;186;Cosmetic Silver Rose;255;160;207
+272;Lee Filters;187;Cosmetic Rouge;255;155;134
+271;Lee Filters;188;Cosmetic Highlight;255;210;200
+269;Lee Filters;189;Cosmetic Silver Moss;213;255;181
+268;Lee Filters;190;Cosmetic Emerald;255;244;215
+267;Lee Filters;191;Cosmetic Aqua Blue;96;255;223
+211;Lee Filters;192;Flesh Pink;223;32;96
+206;Lee Filters;193;Rosy Gold;255;81;103
+277;Lee Filters;194;Surprise Pink;96;64;191
+280;Lee Filters;195;Zenith Blue;0;16;96
+275;Lee Filters;196;True Blue;0;64;255
+281;Lee Filters;197;Alice Blue;32;64;191
+481;Lee Filters;200;Double C.T. Blue;36;1;201
+221;Lee Filters;201;Full C.T. Blue;0;128;255
+223;Lee Filters;202;1/2 C.T. Blue;0;128;191
+219;Lee Filters;203;1/4 C.T. Blue;215;243;255
+222;Lee Filters;204;Full C.T. Orange;254;153;86
+229;Lee Filters;205;1/2 C.T. Orange;255;171;87
+230;Lee Filters;206;1/4 C.T. Orange;255;194;134
+488;Lee Filters;207;C.T. Orange +.3 ND;144;112;96
+489;Lee Filters;208;C.T. Orange +.6 ND;112;80;80
+491;Lee Filters;209;.3 ND;192;192;192
+492;Lee Filters;210;.6 ND;112;112;112
+493;Lee Filters;211;.9 ND;32;32;32
+504;Lee Filters;212;L.C.T. Yellow;255;255;157
+505;Lee Filters;213;White Flame Green;192;255;128
+220;Lee Filters;218;1/8 C.T. Blue;223;223;223
+514;Lee Filters;219;Lee Fluorescent Green;0;136;113
+231;Lee Filters;223;1/8 C.T. Orange;255;216;176
+503;Lee Filters;226;Lee U.V.;255;255;255
+506;Lee Filters;230;Super Correction L.C.T. Yellow;166;131;83
+507;Lee Filters;232;Super White Flame;198;135;149
+508;Lee Filters;236;H.M.I. To Tungsten;255;96;0
+509;Lee Filters;237;C.I.D. To Tungsten;253;92;15
+510;Lee Filters;238;C.S.I. To Tungsten;201;67;56
+511;Lee Filters;241;Lee Fluorescent 5700K;13;152;155
+512;Lee Filters;242;Lee Fluorescent 4300K;50;181;135
+513;Lee Filters;243;Lee Fluorescent 3600K;0;206;114
+495;Lee Filters;244;Lee Plus Green;112;223;64
+496;Lee Filters;245;Half Plus Green;192;255;128
+497;Lee Filters;246;Quarter Plus Green;203;255;151
+499;Lee Filters;247;Lee Minus Green;255;0;128
+500;Lee Filters;248;Half Minus Green;255;0;255
+501;Lee Filters;249;Quarter Minus Green;255;128;192
+498;Lee Filters;278;Eighth Plus Green;220;255;151
+502;Lee Filters;279;Eighth Minus Green;255;128;255
+482;Lee Filters;281;3/4 C.T. Blue;0;24;136
+483;Lee Filters;285;3/4 C.T. Orange;215;32;0
+490;Lee Filters;298;.15 ND;224;224;224
+494;Lee Filters;299;1.2 ND;16;16;16
+610;Lee Filters;328;Follies Pink;204;0;43
+609;Lee Filters;332;Special Rose Pink;195;0;75
+225;Lee Filters;343;Special Medium Lavender;32;0;128
+226;Lee Filters;344;Violet;32;32;191
+608;Lee Filters;353;Lighter Blue;27;136;219
+228;Lee Filters;354;Special Steel Blue;0;223;223
+605;Lee Filters;363;Special Medium Blue;0;0;96
+484;Lee Filters;441;Full C.T. Straw;255;96;0
+485;Lee Filters;442;Half C.T. Straw;254;198;114
+486;Lee Filters;443;Quarter C.T. Straw;239;207;143
+487;Lee Filters;444;Eighth C.T. Straw;254;232;186
+64;GamColor;105;Antique Rose;188;251;147
+65;GamColor;106;1/2 Antique Rose;165;183;205
+66;GamColor;107;1/4 Antique Rose;180;252;247
+114;GamColor;108;1/8 Antique Rose;255;171;160
+67;GamColor;110;Dark Rose;233;33;163
+68;GamColor;120;Bright Pink;237;61;149
+69;GamColor;130;Rose;241;90;154
+70;GamColor;140;Dark Magenta;185;13;164
+71;GamColor;150;Pink Punch;192;0;96
+72;GamColor;155;Light Pink;251;170;210
+73;GamColor;160;Chorus Pink;252;163;209
+74;GamColor;170;Flesh Pink;250;103;180
+75;GamColor;180;Cherry;249;28;94
+76;GamColor;190;Cold Pink;252;141;174
+77;GamColor;195;Nymph Pink;253;145;183
+78;GamColor;220;Pink Magenta;206;4;75
+79;GamColor;235;Pink Red;249;53;72
+80;GamColor;245;Light Red;208;6;21
+81;GamColor;250;Medium Red XT;116;0;16
+82;GamColor;260;Rosy Amber;252;124;153
+83;GamColor;270;Red Orange;111;0;0
+84;GamColor;280;Fire Red;255;9;9
+85;GamColor;290;Fire Orange;230;17;0
+86;GamColor;305;French Rose;254;150;171
+87;GamColor;315;Autumn Glory;253;71;62
+88;GamColor;320;Peach;252;85;37
+89;GamColor;323;Indian Summer;255;32;32
+90;GamColor;325;Bastard Amber;254;173;150
+91;GamColor;330;Sepia;182;119;109
+92;GamColor;335;Coral;159;0;0
+115;GamColor;340;Light Bastard Amber;254;208;167
+171;GamColor;343;Honey;112;16;0
+93;GamColor;345;Deep Amber;255;0;0
+94;GamColor;350;Dark Amber;252;103;39
+95;GamColor;360;Amber Blush;240;206;179
+96;GamColor;363;Sand;255;223;175
+97;GamColor;364;Pale Honey;223;147;64
+98;GamColor;365;Warm Straw;240;206;179
+99;GamColor;370;Spice;112;80;80
+100;GamColor;375;Flame;252;123;54
+101;GamColor;380;Golden Tan;124;82;69
+102;GamColor;385;Light Amber;253;180;136
+103;GamColor;390;Walnut;54;39;41
+104;GamColor;420;Medium Amber;253;202;96
+105;GamColor;440;Very Light Straw;254;232;186
+106;GamColor;450;Saffron;230;157;23
+107;GamColor;460;Mellow Yellow;248;252;82
+108;GamColor;470;Pale Gold;239;255;57
+109;GamColor;480;Medium Yellow;245;235;27
+110;GamColor;510;No Color Straw;252;249;186
+111;GamColor;520;New Straw;198;255;167
+112;GamColor;535;Lime;96;255;137
+113;GamColor;540;Pale Green;145;255;92
+116;GamColor;570;Light Green Yellow;26;226;10
+117;GamColor;650;Grass Green;0;106;0
+118;GamColor;655;Rich Green;0;12;0
+119;GamColor;660;Medium Green;0;179;4
+120;GamColor;680;Kelly Green;38;181;113
+121;GamColor;685;Pistachio;0;44;16
+122;GamColor;690;Bluegrass;0;56;32
+123;GamColor;710;Blue Green;58;118;97
+124;GamColor;720;Light Steel Blue;119;227;255
+125;GamColor;725;Princess Blue;0;88;112
+126;GamColor;730;Azure Blue;0;102;123
+127;GamColor;740;Off Blue;0;167;230
+128;GamColor;750;Nile Blue;0;130;168
+129;GamColor;760;Aqua Blue;34;111;119
+130;GamColor;770;Christel Blue;47;152;164
+131;GamColor;780;Shark Blue;54;176;190
+132;GamColor;790;Electric Blue;104;157;255
+133;GamColor;810;Moon Blue;0;62;176
+134;GamColor;815;Moody Blue;0;52;108
+135;GamColor;820;Full Light Blue;147;185;255
+136;GamColor;830;North Sky Blue;219;198;255
+137;GamColor;835;Aztec Blue;0;0;92
+138;GamColor;840;Steel Blue;94;0;249
+139;GamColor;842;Whisper Blue;0;138;255
+140;GamColor;845;Cobalt;0;0;88
+141;GamColor;847;City Blue;0;0;96
+142;GamColor;848;Bonus Blue;0;0;108
+143;GamColor;850;Blue (Primary);64;0;170
+144;GamColor;860;Sky Blue;152;89;255
+145;GamColor;870;Winter Blue;0;211;255
+146;GamColor;880;Daylight Blue;88;0;236
+147;GamColor;882;Southern Sky;0;28;72
+148;GamColor;885;Blue Ice;0;132;160
+149;GamColor;888;Blue Belle;0;24;56
+150;GamColor;890;Dark Sky Blue;2;9;136
+151;GamColor;905;Dark Blue;0;0;108
+152;GamColor;910;Alice Blue;16;0;100
+153;GamColor;915;Twilight;12;0;92
+154;GamColor;920;Pale Lavender;241;219;255
+155;GamColor;925;Cosmic Blue;0;0;12
+156;GamColor;930;Real Congo Blue;0;0;16
+157;GamColor;940;Light Purple;7;26;190
+158;GamColor;945;Royal Purple;69;2;108
+159;GamColor;948;African Violet;12;0;32
+160;GamColor;950;Purple;65;2;98
+161;GamColor;960;Medium Lavender;138;4;210
+162;GamColor;970;Special Lavender;175;34;251
+163;GamColor;980;Surprise Pink;224;170;253
+164;GamColor;990;Dark Lavender;105;4;159
+165;GamColor;995;Orchid;36;0;28
+172;GamColor;1510;UV Shield;255;255;255
+166;GamColor;1514;.15 ND;199;184;189
+167;GamColor;1515;.3 ND;160;160;144
+168;GamColor;1516;.6 ND;116;116;116
+169;GamColor;1517;.9 ND;100;100;100
+170;GamColor;1518;1.2 ND;16;16;16
+173;GamColor;1520;Extra Blue CTB;0;0;120
+174;GamColor;1523;Full Blue CTB;0;0;96
+175;GamColor;1526;3/4 Blue CTB;0;24;136
+176;GamColor;1529;1/2 Blue CTB;20;20;220
+177;GamColor;1532;1/4 Blue CTB;112;160;224
+178;GamColor;1535;1/8 Blue CTB;104;104;217
+179;GamColor;1540;Extra CTO;255;0;0
+180;GamColor;1543;Full CTO;233;24;0
+181;GamColor;1546;3/4 CTO;215;32;0
+182;GamColor;1549;1/2 CTO;92;32;0
+183;GamColor;1552;1/4 CTO;184;88;4
+184;GamColor;1555;1/8 CTO;252;132;44
+185;GamColor;1556;CTO/.3 ND;61;30;30
+186;GamColor;1557;CTO/.6 ND;30;8;8
+187;GamColor;1558;CTO/.9 ND;16;8;8
+188;GamColor;1560;Y-1;225;225;92
+189;GamColor;1565;MTY;255;33;0
+190;GamColor;1570;MT2;208;47;0
+191;GamColor;1575;1/2 MT2;202;104;0
+192;GamColor;1580;Minusgreen;104;16;48
+453;GamColor;1581;3/4 Minusgreen;104;16;48
+193;GamColor;1582;1/2 Minusgreen;255;64;236
+194;GamColor;1583;1/4 Minusgreen;255;97;127
+195;GamColor;1584;1/8 Minusgreen;255;129;184
+196;GamColor;1585;Plusgreen;56;80;8
+197;GamColor;1587;1/2 Plusgreen;142;170;0
+454;GamColor;1588;1/4 Plusgreen;130;160;0
+455;GamColor;1589;1/8 Plusgreen;130;160;0
+198;GamColor;1590;Fluorofilter CW;96;0;0

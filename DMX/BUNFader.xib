@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="6245" systemVersion="13F34" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="6245"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner" customClass="BUNFader">
+            <connections>
+                <outlet property="checker" destination="T9c-Lx-LaY" id="6Ke-F4-JCC"/>
+                <outlet property="label" destination="ADm-Qf-zfr" id="DTc-0r-3oK"/>
+                <outlet property="slider" destination="WmS-Nd-0X5" id="frJ-1o-f9R"/>
+                <outlet property="sourceItemView" destination="fpo-Il-DK2" id="gel-el-kYV"/>
+                <outlet property="value" destination="9EJ-xF-jf5" id="gv0-Da-lFG"/>
+                <outlet property="view" destination="fpo-Il-DK2" id="nvr-Eh-LXi"/>
+            </connections>
+        </customObject>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <view id="fpo-Il-DK2">
+            <rect key="frame" x="0.0" y="0.0" width="30" height="180"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <subviews>
+                <slider horizontalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="WmS-Nd-0X5">
+                    <rect key="frame" x="4" y="44" width="21" height="111"/>
+                    <sliderCell key="cell" continuous="YES" alignment="left" maxValue="255" tickMarkPosition="right" sliderType="linear" id="lFb-wS-Ovk"/>
+                    <connections>
+                        <action selector="sliderAction:" target="-2" id="H9p-KV-cQo"/>
+                    </connections>
+                </slider>
+                <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="ADm-Qf-zfr">
+                    <rect key="frame" x="-1" y="161" width="32" height="11"/>
+                    <textFieldCell key="cell" controlSize="mini" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" alignment="center" title="Label" id="fZa-my-DIq">
+                        <font key="font" metaFont="miniSystem"/>
+                        <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                    </textFieldCell>
+                </textField>
+                <button translatesAutoresizingMaskIntoConstraints="NO" id="T9c-Lx-LaY">
+                    <rect key="frame" x="6" y="2" width="22" height="22"/>
+                    <buttonCell key="cell" type="check" bezelStyle="regularSquare" imagePosition="left" alignment="left" controlSize="mini" inset="2" id="WvX-vH-1ny">
+                        <behavior key="behavior" changeContents="YES" doesNotDimImage="YES" lightByContents="YES"/>
+                        <font key="font" metaFont="miniSystem"/>
+                    </buttonCell>
+                </button>
+                <textField verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="9EJ-xF-jf5">
+                    <rect key="frame" x="1" y="24" width="28" height="16"/>
+                    <textFieldCell key="cell" controlSize="mini" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" state="on" alignment="center" drawsBackground="YES" id="YJn-bg-n3C">
+                        <font key="font" metaFont="miniSystem"/>
+                        <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
+                        <color key="backgroundColor" white="0.25" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </textFieldCell>
+                    <connections>
+                        <action selector="valueEntered:" target="-2" id="A9Z-h5-4fA"/>
+                    </connections>
+                </textField>
+            </subviews>
+            <constraints>
+                <constraint firstItem="ADm-Qf-zfr" firstAttribute="leading" secondItem="fpo-Il-DK2" secondAttribute="leading" constant="1" id="3Vp-Zx-RTI"/>
+                <constraint firstItem="T9c-Lx-LaY" firstAttribute="top" secondItem="WmS-Nd-0X5" secondAttribute="bottom" constant="28" id="4TT-OA-hKr"/>
+                <constraint firstItem="WmS-Nd-0X5" firstAttribute="centerY" secondItem="fpo-Il-DK2" secondAttribute="centerY" constant="-10" id="6DE-fq-jb4"/>
+                <constraint firstItem="T9c-Lx-LaY" firstAttribute="leading" secondItem="fpo-Il-DK2" secondAttribute="leading" constant="10" id="MXY-Zd-gz6"/>
+                <constraint firstItem="ADm-Qf-zfr" firstAttribute="top" secondItem="fpo-Il-DK2" secondAttribute="top" constant="8" id="dVi-Qp-bDV"/>
+                <constraint firstAttribute="bottom" secondItem="T9c-Lx-LaY" secondAttribute="bottom" constant="5" id="g7u-Tf-vR5"/>
+                <constraint firstItem="WmS-Nd-0X5" firstAttribute="top" secondItem="ADm-Qf-zfr" secondAttribute="bottom" constant="8" symbolic="YES" id="hFM-TF-FBm"/>
+                <constraint firstItem="WmS-Nd-0X5" firstAttribute="centerX" secondItem="fpo-Il-DK2" secondAttribute="centerX" id="v1c-1c-2gi"/>
+            </constraints>
+            <point key="canvasLocation" x="381" y="326"/>
+        </view>
+    </objects>
+</document>
